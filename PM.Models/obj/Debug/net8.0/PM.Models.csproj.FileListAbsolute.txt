@@ -1,0 +1,11 @@
+C:\Users\Itsol\source\repos\ProductManager\PM.Models\bin\Debug\net8.0\PM.Models.deps.json
+C:\Users\Itsol\source\repos\ProductManager\PM.Models\bin\Debug\net8.0\PM.Models.dll
+C:\Users\Itsol\source\repos\ProductManager\PM.Models\bin\Debug\net8.0\PM.Models.pdb
+C:\Users\Itsol\source\repos\ProductManager\PM.Models\obj\Debug\net8.0\PM.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Itsol\source\repos\ProductManager\PM.Models\obj\Debug\net8.0\PM.Models.AssemblyInfoInputs.cache
+C:\Users\Itsol\source\repos\ProductManager\PM.Models\obj\Debug\net8.0\PM.Models.AssemblyInfo.cs
+C:\Users\Itsol\source\repos\ProductManager\PM.Models\obj\Debug\net8.0\PM.Models.csproj.CoreCompileInputs.cache
+C:\Users\Itsol\source\repos\ProductManager\PM.Models\obj\Debug\net8.0\PM.Models.dll
+C:\Users\Itsol\source\repos\ProductManager\PM.Models\obj\Debug\net8.0\refint\PM.Models.dll
+C:\Users\Itsol\source\repos\ProductManager\PM.Models\obj\Debug\net8.0\PM.Models.pdb
+C:\Users\Itsol\source\repos\ProductManager\PM.Models\obj\Debug\net8.0\ref\PM.Models.dll
